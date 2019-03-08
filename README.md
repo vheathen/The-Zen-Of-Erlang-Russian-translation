@@ -1,8 +1,4 @@
-
-
-let it crash - позволь этому рухнуть 
-
-# Дзен Эрланга (и Эликсира, прим. переводчика)
+# Дзен Эрланга (и Эликсира - прим. переводчика)
 
 *Примечание переводчика:*
 
@@ -199,3 +195,4 @@ let it crash - позволь этому рухнуть
 
 В этом программе критически важные функции, неизменные и надёжные, находятся ближе к корню дерева. Их не затрагивает гибель других сиблингов, но их собственные сбои влияют на всех остальных. Листья при этом делают всю работу и могут быть потеряны довольно легко - как только они впитали данные и провели на них фотосинтез, им разрешено уйти.
 
+In this program, critical features are closer to the root of the tree, unmoving and solid. They are unimpacted by their siblings' demise, but their own failure impacts everyone else. The leaves do all the work and can be lost fairly well — once they have absorbed the data and operated their photosynthesis on it, it is allowed to go towards the core.
